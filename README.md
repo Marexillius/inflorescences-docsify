@@ -2,9 +2,13 @@
 ![Image Inflorescence](./assets/inflorescence.jpg)
 
 ## Responsables
-- Réalisé par: Sabrina Ratté
-- Conception sonore fait par: Roger Tellier Craig
-- Integration multimédia fait par: Guillaume Arseneault
+### Réalisé par: Sabrina Ratté
+![Image de Sabrina Ratté](./assets/sabrinaRatte.jpg)
+
+### Conception sonore fait par: Roger Tellier Craig
+![Image de Sabrina Ratté](./assets/rogerCraig.jpg)
+
+### Integration multimédia fait par: Guillaume Arseneault
 
 ## Dates
 - Création: 
