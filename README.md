@@ -1,2 +1,21 @@
-# docsify-modele-classique
-modèle de page docsify pour une publication via page sans actions 
+# Inflorescence
+
+## Responsables
+- Sabrina Ratté
+- Roger Tellier Craig
+- Guillaume Arseneault
+
+## Dates
+- Création: 
+- Première Présentation: 
+
+## Lieux
+
+
+## Description de Inflorescence
+
+
+## Fonctionnement 
+
+
+## Avi
