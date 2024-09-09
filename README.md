@@ -12,7 +12,7 @@
 ![Image de Guillaume Arseneault](./assets/guillaume.png)
 
 ## Dates
-- Création: 20 Mai 2023
+- Création: Début 2023
 - Première Présentation: 1er Juin 2023 au 6 Août 2023
 
 ## Lieux
